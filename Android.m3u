@@ -1,0 +1,592 @@
+#EXTM3U
+
+
+#EXTINF:-1, DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
+#EXTINF:-1,A&E
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=1|User-Agent=megaplayer
+#EXTINF:-1,AXN
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=2|User-Agent=megaplayer
+#EXTINF:-1,Animal Planet
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=3|User-Agent=megaplayer
+#EXTINF:-1,Az Corazon
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=4|User-Agent=megaplayer
+#EXTINF:-1,Az Mundo
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=5|User-Agent=megaplayer
+#EXTINF:-1,AMC
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=6|User-Agent=megaplayer
+#EXTINF:-1,Antena 3 Internacional
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=7|User-Agent=megaplayer
+#EXTINF:-1,BBC World
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=8|User-Agent=megaplayer
+#EXTINF:-1,Baby TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=9|User-Agent=megaplayer
+#EXTINF:-1,Bloomberg
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=10|User-Agent=megaplayer
+#EXTINF:-1,CNN Espanol
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=11|User-Agent=megaplayer
+#EXTINF:-1,CNN Internacional
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=12|User-Agent=megaplayer
+#EXTINF:-1,Cable Noticias
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=13|User-Agent=megaplayer
+#EXTINF:-1,Canal Claro
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=14|User-Agent=megaplayer
+#EXTINF:-1,Caracol
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=16|User-Agent=megaplayer
+#EXTINF:-1,Caracol Internacional
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=17|User-Agent=megaplayer
+#EXTINF:-1,Cartoon Network
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=18|User-Agent=megaplayer
+#EXTINF:-1,Cine Canal
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=19|User-Agent=megaplayer
+#EXTINF:-1,Cine Latino
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=20|User-Agent=megaplayer
+#EXTINF:-1,Cinema Dinamita
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=21|User-Agent=megaplayer
+#EXTINF:-1,Cinema Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=22|User-Agent=megaplayer
+#EXTINF:-1,City TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=23|User-Agent=megaplayer
+#EXTINF:-1,Claro Cinema
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=24|User-Agent=megaplayer
+#EXTINF:-1,Claro Music 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=26|User-Agent=megaplayer
+#EXTINF:-1,Claro Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=27|User-Agent=megaplayer
+#EXTINF:-1,Claro Sports Latinoamerica
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=28|User-Agent=megaplayer
+#EXTINF:-1,Comedy Central
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=29|User-Agent=megaplayer
+#EXTINF:-1,DHE
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=31|User-Agent=megaplayer
+#EXTINF:-1,DW
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=32|User-Agent=megaplayer
+#EXTINF:-1,Concert Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=30|User-Agent=megaplayer
+#EXTINF:-1,DW America
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=33|User-Agent=megaplayer
+#EXTINF:-1,De Pelicula Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=34|User-Agent=megaplayer
+#EXTINF:-1,Discovery Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=36|User-Agent=megaplayer
+#EXTINF:-1,Discovery Home and Health
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=37|User-Agent=megaplayer
+#EXTINF:-1,Discovery Kids
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=38|User-Agent=megaplayer
+#EXTINF:-1,Discovery Science
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=39|User-Agent=megaplayer
+#EXTINF:-1,Discovery Turbo
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=41|User-Agent=megaplayer
+#EXTINF:-1,Discovery World
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=42|User-Agent=megaplayer
+#EXTINF:-1,Discovery Theater
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=40|User-Agent=megaplayer
+#EXTINF:-1,Disney
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=43|User-Agent=megaplayer
+#EXTINF:-1,Disney JR
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=44|User-Agent=megaplayer
+#EXTINF:-1,Disney XD
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=45|User-Agent=megaplayer
+#EXTINF:-1,E !
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=46|User-Agent=megaplayer
+#EXTINF:-1,El Gourmet
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=47|User-Agent=megaplayer
+#EXTINF:-1,Mas Chic
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=48|User-Agent=megaplayer
+#EXTINF:-1,MTV Hits
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=49|User-Agent=megaplayer
+#EXTINF:-1,MTV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=50|User-Agent=megaplayer
+#EXTINF:-1,Lifetime
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=51|User-Agent=megaplayer
+#EXTINF:-1,Investigation Discovery
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=52|User-Agent=megaplayer
+#EXTINF:-1,I.Sat
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=53|User-Agent=megaplayer
+#EXTINF:-1,Hola TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=54|User-Agent=megaplayer
+#EXTINF:-1,H2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=55|User-Agent=megaplayer
+#EXTINF:-1,History Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=56|User-Agent=megaplayer
+#EXTINF:-1,HTV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=57|User-Agent=megaplayer
+#EXTINF:-1,HLN
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=58|User-Agent=megaplayer
+#EXTINF:-1,HBO plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=59|User-Agent=megaplayer
+#EXTINF:-1,HBO Subtitulado
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=60|User-Agent=megaplayer
+#EXTINF:-1,HBO Signature
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=61|User-Agent=megaplayer
+#EXTINF:-1,HBO Family
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=62|User-Agent=megaplayer
+#EXTINF:-1,HBO 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=63|User-Agent=megaplayer
+#EXTINF:-1,HBO
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=64|User-Agent=megaplayer
+#EXTINF:-1,Golf Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=65|User-Agent=megaplayer
+#EXTINF:-1,Golden Premium
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=66|User-Agent=megaplayer
+#EXTINF:-1,Golden
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=67|User-Agent=megaplayer
+#EXTINF:-1,Glitz
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=68|User-Agent=megaplayer
+#EXTINF:-1,Fx Movie Mex
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=69|User-Agent=megaplayer
+#EXTINF:-1,France 24
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=71|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 3 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=72|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 2 MX
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=74|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 2 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=75|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 1 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=76|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 1 MX
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=77|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Series Subtitulado
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=78|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Series
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=79|User-Agent=megaplayer
+#EXTINF:-1,Fox News
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=80|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Movies
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=81|User-Agent=megaplayer
+#EXTINF:-1,Fox Life Mex
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=82|User-Agent=megaplayer
+#EXTINF:-1,Fox Life
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=83|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Family
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=84|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Comedy
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=85|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Classics
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=86|User-Agent=megaplayer
+#EXTINF:-1,Fox Cinema Subtitulado
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=87|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Cinema
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=88|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Action MX
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=89|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Action
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=90|User-Agent=megaplayer
+#EXTINF:-1,Fox
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=91|User-Agent=megaplayer
+#EXTINF:-1,FX
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=92|User-Agent=megaplayer
+#EXTINF:-1,Euro Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=93|User-Agent=megaplayer
+#EXTINF:-1,Espn Plus Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=94|User-Agent=megaplayer
+#EXTINF:-1,Espn 3 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=95|User-Agent=megaplayer
+#EXTINF:-1,Espn 2 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=96|User-Agent=megaplayer
+#EXTINF:-1,Espn 1 Sur
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=97|User-Agent=megaplayer
+#EXTINF:-1,Win Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=98|User-Agent=megaplayer
+#EXTINF:-1,Warner Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=99|User-Agent=megaplayer
+#EXTINF:-1,Vh1 Classic
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=100|User-Agent=megaplayer
+#EXTINF:-1,Vh1
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=101|User-Agent=megaplayer
+#EXTINF:-1,Univision
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=102|User-Agent=megaplayer
+#EXTINF:-1,Universal Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=103|User-Agent=megaplayer
+#EXTINF:-1,Unicable
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=104|User-Agent=megaplayer
+#EXTINF:-1,Tru TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=105|User-Agent=megaplayer
+#EXTINF:-1,Tve
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=106|User-Agent=megaplayer
+#EXTINF:-1,Tooncast
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=107|User-Agent=megaplayer
+#EXTINF:-1,Telemundo
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=108|User-Agent=megaplayer
+#EXTINF:-1,TNT Series
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=109|User-Agent=megaplayer
+#EXTINF:-1,TNT
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=110|User-Agent=megaplayer
+#EXTINF:-1,TLC
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=111|User-Agent=megaplayer
+#EXTINF:-1,TCM
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=112|User-Agent=megaplayer
+#EXTINF:-1,TBS
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=113|User-Agent=megaplayer
+#EXTINF:-1,Sundance Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=114|User-Agent=megaplayer
+#EXTINF:-1,Studio Universal
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=115|User-Agent=megaplayer
+#EXTINF:-1,Space
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=116|User-Agent=megaplayer
+#EXTINF:-1,Sony
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=117|User-Agent=megaplayer
+#EXTINF:-1,RCN Telenovelas
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=118|User-Agent=megaplayer
+#EXTINF:-1,Pasiones
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=119|User-Agent=megaplayer
+#EXTINF:-1,Paramount Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=120|User-Agent=megaplayer
+#EXTINF:-1,Nickelodeon
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=121|User-Agent=megaplayer
+#EXTINF:-1,Nick Jr
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=122|User-Agent=megaplayer
+#EXTINF:-1,Nick 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=123|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Wild
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=124|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Mex
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=125|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Kids Mex
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=126|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Kids
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=127|User-Agent=megaplayer
+#EXTINF:-1,National Geographic Channel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=128|User-Agent=megaplayer
+#EXTINF:-1,Multipremier
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=129|User-Agent=megaplayer
+#EXTINF:-1,Mtv Live
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=130|User-Agent=megaplayer
+#EXTINF:-1,HBO Pop
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=131|User-Agent=megaplayer
+#EXTINF:-1,HBO Xtreme
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=132|User-Agent=megaplayer
+#EXTINF:-1,HBO Mundi
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=133|User-Agent=megaplayer
+#EXTINF:-1,MX | Azteca 7
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=134|User-Agent=megaplayer
+#EXTINF:-1,MX | Azteca Uno
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=135|User-Agent=megaplayer
+#EXTINF:-1,MX | ADN 40
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=136|User-Agent=megaplayer
+#EXTINF:-1,MX | Az Clic
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=139|User-Agent=megaplayer
+#EXTINF:-1,MX | Az Cinema
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=140|User-Agent=megaplayer
+#EXTINF:-1,MX | A3 Series
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=141|User-Agent=megaplayer
+#EXTINF:-1,MX | Antena 3
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=142|User-Agent=megaplayer
+#EXTINF:-1,MX | Aym Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=143|User-Agent=megaplayer
+#EXTINF:-1,MX | Canal 5
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=144|User-Agent=megaplayer
+#EXTINF:-1,MX | Las Estrellas
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=145|User-Agent=megaplayer
+#EXTINF:-1,MX | Galatv
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=146|User-Agent=megaplayer
+#EXTINF:-1,MX | Foro TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=147|User-Agent=megaplayer
+#EXTINF:-1,MX | Europa Europa
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=148|User-Agent=megaplayer
+#EXTINF:-1,MX | Distrito Comedia
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=149|User-Agent=megaplayer
+#EXTINF:-1,MX | Multimedios
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=150|User-Agent=megaplayer
+#EXTINF:-1,MX | Televisa MTY
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=151|User-Agent=megaplayer
+#EXTINF:-1,MX | Garage TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=152|User-Agent=megaplayer
+#EXTINF:-1,MX | Congreso de la Unión
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=153|User-Agent=megaplayer
+#EXTINF:-1,MX | Imagen TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=154|User-Agent=megaplayer
+#EXTINF:-1,MX | Latin American Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=155|User-Agent=megaplayer
+#EXTINF:-1,MX | Teleritmo
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=156|User-Agent=megaplayer
+#EXTINF:-1,MX | Milenio TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=157|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=160|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=161|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=162|User-Agent=megaplayer
+#EXTINF:-1,MX | Fox Sports 3
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=165|User-Agent=megaplayer
+#EXTINF:-1,MX | RT Noticias
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=166|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn 3
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=167|User-Agent=megaplayer
+#EXTINF:-1,MX | RT en Espanol
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=168|User-Agent=megaplayer
+#EXTINF:-1,MX | Tl Novelas
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=169|User-Agent=megaplayer
+#EXTINF:-1,MX | A Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=170|User-Agent=megaplayer
+#EXTINF:-1,MX | Cinemax
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=171|User-Agent=megaplayer
+#EXTINF:-1,MX | Nicktoons
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=172|User-Agent=megaplayer
+#EXTINF:-1,MX | Bandamax
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=173|User-Agent=megaplayer
+#EXTINF:-1,MX | Food Network
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=174|User-Agent=megaplayer
+#EXTINF:-1,MX | Boomerang
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=176|User-Agent=megaplayer
+#EXTINF:-1,MX | Ingenio TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=177|User-Agent=megaplayer
+#EXTINF:-1,MX | Ritmoson
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=178|User-Agent=megaplayer
+#EXTINF:-1,MX | Telehit
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=179|User-Agent=megaplayer
+#EXTINF:-1,MX | TVC
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=180|User-Agent=megaplayer
+#EXTINF:-1,MX | TVC Deportes
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=181|User-Agent=megaplayer
+#EXTINF:-1,MX | Telefórmula
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=182|User-Agent=megaplayer
+#EXTINF:-1,MX | Golden
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=183|User-Agent=megaplayer
+#EXTINF:-1,MX | Golden Edge
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=184|User-Agent=megaplayer
+#EXTINF:-1,Bein Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=185|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=186|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=187|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=188|User-Agent=megaplayer
+#EXTINF:-1,Univision UDN
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=189|User-Agent=megaplayer
+#EXTINF:-1,Univision TDN
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=190|User-Agent=megaplayer
+#EXTINF:-1,PE | TV Peru
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=191|User-Agent=megaplayer
+#EXTINF:-1,PE | Peru Magico
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=192|User-Agent=megaplayer
+#EXTINF:-1,PE | Panamericana
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=193|User-Agent=megaplayer
+#EXTINF:-1,PE | Movistar Deportes
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=194|User-Agent=megaplayer
+#EXTINF:-1,PE | Gol Peru
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=195|User-Agent=megaplayer
+#EXTINF:-1,COL | Trece
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=198|User-Agent=megaplayer
+#EXTINF:-1,COL | RCN Internacional
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=200|User-Agent=megaplayer
+#EXTINF:-1,COL | RCN
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=201|User-Agent=megaplayer
+#EXTINF:-1,COL | Caracol 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=204|User-Agent=megaplayer
+#EXTINF:-1,COL | Caracol
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=205|User-Agent=megaplayer
+#EXTINF:-1,CL | Fox Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=211|User-Agent=megaplayer
+#EXTINF:-1,CL | Chilevision
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=212|User-Agent=megaplayer
+#EXTINF:-1,CL | CDO Premium
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=213|User-Agent=megaplayer
+#EXTINF:-1,CL | CDO Basico
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=214|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF Premium
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=215|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF Basico
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=216|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=217|User-Agent=megaplayer
+#EXTINF:-1,AR | TNT Sports
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=219|User-Agent=megaplayer
+#EXTINF:-1,Wobi
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=337|User-Agent=megaplayer
+#EXTINF:-1,VH1 HD
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=336|User-Agent=megaplayer
+#EXTINF:-1,Start TVE
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=335|User-Agent=megaplayer
+#EXTINF:-1,TV Mas
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=334|User-Agent=megaplayer
+#EXTINF:-1,MVS
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=333|User-Agent=megaplayer
+#EXTINF:-1,Golden Plus
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=327|User-Agent=megaplayer
+#EXTINF:-1,Discovery Civilization
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=325|User-Agent=megaplayer
+#EXTINF:-1,De Pelicula
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=324|User-Agent=megaplayer
+#EXTINF:-1,Gol TV Internacional
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=338|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports 1
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=339|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports py
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=340|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports 3
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=341|User-Agent=megaplayer
+#EXTINF:-1,Estrella tv
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=342|User-Agent=megaplayer
+#EXTINF:-1,Bein sports ñ T
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=343|User-Agent=megaplayer
+#EXTINF:-1,Fightbox
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=346|User-Agent=megaplayer
+#EXTINF:-1,Fight Time
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=347|User-Agent=megaplayer
+#EXTINF:-1,MLB Network
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=349|User-Agent=megaplayer
+#EXTINF:-1,Motorsports TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=350|User-Agent=megaplayer
+#EXTINF:-1,RedBull
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=351|User-Agent=megaplayer
+#EXTINF:-1,UFC TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=353|User-Agent=megaplayer
+#EXTINF:-1,Bitme
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=354|User-Agent=megaplayer
+#EXTINF:-1,Locomotion
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=355|User-Agent=megaplayer
+#EXTINF:-1,movistar liga de Campeones
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=357|User-Agent=megaplayer
+#EXTINF:-1,nueve mx
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=356|User-Agent=megaplayer
+#EXTINF:-1,ISAT
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=369|User-Agent=megaplayer
+#EXTINF:-1,Film&Arts
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=370|User-Agent=megaplayer
+#EXTINF:-1,Syfy
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=371|User-Agent=megaplayer
+#EXTINF:-1,Ultra Tainment
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=373|User-Agent=megaplayer
+#EXTINF:-1,Win Sports+
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=374|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 1
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=376|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 2
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=377|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 3
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=378|User-Agent=megaplayer
+#EXTINF:-1,Canal Once
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=380|User-Agent=megaplayer
+#EXTINF:-1,Once Niños
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=381|User-Agent=megaplayer
+#EXTINF:-1,afizzionados
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=382|User-Agent=megaplayer
+#EXTINF:-1,Fox Deportes
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=384|User-Agent=megaplayer
+#EXTINF:-1,HGTV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=385|User-Agent=megaplayer
+#EXTINF:-1,Lazy Town
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=235|User-Agent=megaplayer
+#EXTINF:-1,Barnie y sus amigos
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=236|User-Agent=megaplayer
+#EXTINF:-1,Dora la exploradora
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=237|User-Agent=megaplayer
+#EXTINF:-1,PJ Masks
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=238|User-Agent=megaplayer
+#EXTINF:-1,caillou
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=239|User-Agent=megaplayer
+#EXTINF:-1,Jorge el Curioso
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=240|User-Agent=megaplayer
+#EXTINF:-1,peppa pig
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=241|User-Agent=megaplayer
+#EXTINF:-1,happy tree friends
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=242|User-Agent=megaplayer
+#EXTINF:-1,Los picapiedras
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=243|User-Agent=megaplayer
+#EXTINF:-1,Le temes a la oscuridad
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=244|User-Agent=megaplayer
+#EXTINF:-1,Pantera Rosa 80s
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=245|User-Agent=megaplayer
+#EXTINF:-1,Correcaminos
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=246|User-Agent=megaplayer
+#EXTINF:-1,Power Rangers
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=247|User-Agent=megaplayer
+#EXTINF:-1,Cuentos Hermanos Grimm
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=248|User-Agent=megaplayer
+#EXTINF:-1,Robotech
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=249|User-Agent=megaplayer
+#EXTINF:-1,Estrenos 2018
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=250|User-Agent=megaplayer
+#EXTINF:-1,El Chapulin Colorado
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=251|User-Agent=megaplayer
+#EXTINF:-1,Death Note
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=252|User-Agent=megaplayer
+#EXTINF:-1,CSI Miami
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=253|User-Agent=megaplayer
+#EXTINF:-1,Alf
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=254|User-Agent=megaplayer
+#EXTINF:-1,X-men 90s
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=255|User-Agent=megaplayer
+#EXTINF:-1,Vete a la Versh
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=256|User-Agent=megaplayer
+#EXTINF:-1,The Walking Dead
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=257|User-Agent=megaplayer
+#EXTINF:-1,Super campeones
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=258|User-Agent=megaplayer
+#EXTINF:-1,strangerthings
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=259|User-Agent=megaplayer
+#EXTINF:-1,Spiderman 80s
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=260|User-Agent=megaplayer
+#EXTINF:-1,Sounth Park
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=261|User-Agent=megaplayer
+#EXTINF:-1,Smallville
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=262|User-Agent=megaplayer
+#EXTINF:-1,Shera
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=263|User-Agent=megaplayer
+#EXTINF:-1,Señor de los cielos
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=264|User-Agent=megaplayer
+#EXTINF:-1,Sailormoon
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=265|User-Agent=megaplayer
+#EXTINF:-1,Pokemon
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=266|User-Agent=megaplayer
+#EXTINF:-1,Pinky y Cerebro
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=267|User-Agent=megaplayer
+#EXTINF:-1,Peliculas Terror
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=268|User-Agent=megaplayer
+#EXTINF:-1,Pablo Escobar
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=269|User-Agent=megaplayer
+#EXTINF:-1,Naruto
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=270|User-Agent=megaplayer
+#EXTINF:-1,Mazinger Z
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=271|User-Agent=megaplayer
+#EXTINF:-1,Malcolm el de enmedio
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=272|User-Agent=megaplayer
+#EXTINF:-1,Luis Miguel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=273|User-Agent=megaplayer
+#EXTINF:-1,Los Thundercats
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=275|User-Agent=megaplayer
+#EXTINF:-1,Los Simpsons
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=276|User-Agent=megaplayer
+#EXTINF:-1,La Rosa de Guadalupe
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=277|User-Agent=megaplayer
+#EXTINF:-1,Heman
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=278|User-Agent=megaplayer
+#EXTINF:-1,Game Of Throne
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=279|User-Agent=megaplayer
+#EXTINF:-1,Futurama
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=280|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Z
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=281|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Super
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=282|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball GT
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=283|User-Agent=megaplayer
+#EXTINF:-1,Dragon ball
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=284|User-Agent=megaplayer
+#EXTINF:-1,Dinosaurios
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=285|User-Agent=megaplayer
+#EXTINF:-1,Coraje el perro cobarde
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=286|User-Agent=megaplayer
+#EXTINF:-1,Años Maravillosos
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=287|User-Agent=megaplayer
+#EXTINF:-1,La casa de papel
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=288|User-Agent=megaplayer
+#EXTINF:-1,El chema
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=289|User-Agent=megaplayer
+#EXTINF:-1,El chavo
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=290|User-Agent=megaplayer
+#EXTINF:-1,caballerosdel zodiaco
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=291|User-Agent=megaplayer
+#EXTINF:-1,Breaking bad
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=292|User-Agent=megaplayer
+#EXTINF:-1,Bob Esponja 24/7
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=293|User-Agent=megaplayer
+#EXTINF:-1,BEIN LA LIGA
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=313|User-Agent=megaplayer
+#EXTINF:-1,LA LIGA TV
+http://ipeteve.com/php/SR_REGIO_100821/regiotv2.php?c=314|User-Agent=megaplayer
